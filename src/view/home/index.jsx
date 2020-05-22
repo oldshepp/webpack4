@@ -7,7 +7,7 @@ export class Index extends Component {
     render() {
         return (
             <div>
-               home 
+               home测试
             </div>
         )
     }
